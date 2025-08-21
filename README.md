@@ -16,7 +16,6 @@ Currently focused on **Django**, **REST APIs**, and **Python best practices**, w
 - **Azure Cloud** (using student credits for personal projects).
 
 ## 💡 Personal Projects
-- **Rental Guarantee Platform (GTA)**: Backend development for property rentals and study processes.
 - **Hiking Events Platform**: A personal project for hiking guides in Colombia (using **MongoDB** and modern stacks).
 
 ## 💞️ I’m looking to collaborate on
